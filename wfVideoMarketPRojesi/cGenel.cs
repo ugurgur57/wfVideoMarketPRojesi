@@ -8,7 +8,7 @@ namespace wfVideoMarketPRojesi
 {
     class cGenel
     {
-        public static string connStr = "Data Source=HP; Initial Catalog=VideoMarket; uid=sa; pwd=123458";
+        public static string connStr = "Data Source=WISSEN22\\MSSQLYAZ8; Initial Catalog=VideoMarket; uid=sa; pwd=123458";
         public static int musterino;
         public static string musteri;
         public static int filmno;
